@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net" modified="2022-08-03T09:34:51.381Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.136 Safari/537.36" etag="k5_0XoxxpyMlSFks4kSP" version="20.2.2" type="github">
+  <diagram id="cWxYJISD_UhSbmnfzw1x" name="Page-1">
+    <mxGraphModel dx="833" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mnHTw45RyWTi5IGylZhf-1" value="QA&lt;br&gt;Quality Assurance.&lt;br&gt;Обеспечение качества." style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;strokeColor=#23445d;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="295" y="40" width="260" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="mnHTw45RyWTi5IGylZhf-2" value="QC&lt;br&gt;Quality Control&lt;br&gt;Оценка качества&lt;br&gt;&amp;nbsp;продукта" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d0cee2;strokeColor=#56517e;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="335" y="120" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="mnHTw45RyWTi5IGylZhf-3" value="Testing&lt;br&gt;Find defects&lt;br&gt;&amp;nbsp;in product" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d0cee2;strokeColor=#56517e;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="370" y="190" width="110" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
