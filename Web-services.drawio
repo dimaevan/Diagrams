@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2022-08-09T10:43:01.745Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.136 Safari/537.36" version="20.2.3" etag="4T6Ho956_NuaNb6wW9uy" type="github"><diagram id="dipgJ3VceFHszWtvIB3Y">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-09T11:17:52.360Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.136 Safari/537.36" etag="tGJ9NvRQOu7YzFDYkoVY" version="20.2.3" type="github">
+  <diagram id="dipgJ3VceFHszWtvIB3Y" name="Page-1">
+    <mxGraphModel dx="694" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DdcpOjbHsmEvNEhbNEib-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DdcpOjbHsmEvNEhbNEib-1" target="DdcpOjbHsmEvNEhbNEib-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DdcpOjbHsmEvNEhbNEib-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DdcpOjbHsmEvNEhbNEib-1" target="DdcpOjbHsmEvNEhbNEib-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DdcpOjbHsmEvNEhbNEib-1" value="SOAP&lt;br&gt;Simple-object Access Protocol" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DdcpOjbHsmEvNEhbNEib-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DdcpOjbHsmEvNEhbNEib-2" target="DdcpOjbHsmEvNEhbNEib-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DdcpOjbHsmEvNEhbNEib-2" value="REST&lt;br&gt;Representational State Transfer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="480" y="80" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DdcpOjbHsmEvNEhbNEib-3" value="XSD&lt;br&gt;XML Schema Definition" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="160" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DdcpOjbHsmEvNEhbNEib-5" value="WSDL&lt;br&gt;Web Serviced Description Language&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DdcpOjbHsmEvNEhbNEib-8" value="JSON" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="520" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
